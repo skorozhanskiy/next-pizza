@@ -8,6 +8,7 @@ export default function Home() {
         <Title text="Все пиццы" size="lg" className="font-extrabold" />
       </Container>
       <TopBar />
+      <p>1:04</p>
     </>
   );
 }
