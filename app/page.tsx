@@ -142,10 +142,10 @@ export default function Home() {
                 categoryId={2}
               />
             </div>
+            <b>4:17</b>
           </div>
         </div>
       </Container>
-      <p>1:04</p>
     </>
   );
 }
