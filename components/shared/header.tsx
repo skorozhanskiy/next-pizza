@@ -16,7 +16,9 @@ export const Header: React.FC<Props> = ({ className }) => {
         <div className="flex items-center gap-4">
           <Image src="/logo.png" alt="logo" width={32} height={32} />
           <div>
-            <h1 className="text-2xl uppercase font-black">Next Pizza</h1>
+            <a href="https://next-pizza-two-phi.vercel.app/">
+              <h1 className="text-2xl uppercase font-black">Next Pizza</h1>
+            </a>
             <p className="text-sm text-grey-400 leading-3">Вкуснее уже некуда</p>
           </div>
         </div>
